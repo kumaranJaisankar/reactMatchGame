@@ -1,0 +1,12 @@
+.button {
+  color: white;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.active-btn {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+}
